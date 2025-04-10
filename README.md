@@ -29,6 +29,12 @@ Before running the bot, ensure you have the following installed:
 ```sh
 cd Cap-Faucet-Auto-Bot-
 ```
+setup 
+```
+pkg update && pkg upgrade
+pkg install golang
+```
+
 3. Install required dependencies:
 ```
 go mod tidy
