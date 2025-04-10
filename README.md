@@ -4,6 +4,8 @@
 
 Welcome to the **Cap Faucet Auto Bot** repository! 🚀 This bot is designed to automate the process of claiming tokens from the **Cap Faucet** using Ethereum-based wallets. It provides an easy-to-use terminal interface powered by **Bubble Tea**, and it supports automated claims using multiple wallet private keys. 
 
+# ⚡ Caps-Auto-Bot by [ Kazuha](https://github.com/Kazuha787) ⚡
+# ⚡ Telegram [CHANNEL](https://t.me/Offical_Im_kazuha)
 ## Features
 
 - **Ethereum Token Claiming**: Automates the token claiming process directly from the Cap Faucet.
