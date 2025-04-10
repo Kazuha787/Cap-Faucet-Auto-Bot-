@@ -1,4 +1,4 @@
-# Cap Faucet Auto Bot  
+# Cap Faucet Auto Bot     
 ![IMG_20250410_094909_184](https://github.com/user-attachments/assets/1f62dc38-606c-47c0-9553-6632811530d3)
 
 
